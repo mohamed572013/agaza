@@ -1,0 +1,269 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notokufiarabic.css);
+body,.selectize-dropdown, .selectize-input, .selectize-input input  {font-family: 'Noto Kufi Arabic', sans-serif !important;}
+h1, h2, h3, h4, h5, h6, .get-a-quote, ul.mainNav li a {font-family: 'Noto Kufi Arabic', sans-serif !important;}
+
+.blue-color #left-navigation .social-icon li a {
+  color: #FFFFFF;
+}
+
+.blue-color #left-navigation .social-icon li a:hover {
+  color: #FF7878;
+}
+.blue-color ul.mainNav {
+  background:#3E5B76;
+   }
+/*
+.blue-color ul.mainNav li a {
+
+background:#3E5B76;
+
+}
+*/
+
+.blue-color ul.mainNav li {
+    border-bottom: 1px solid #FFFFFF;
+    border-top: none;
+}
+
+.blue-color ul.mainNav li:last-child {
+  border-bottom: 1px solid #47aac5;
+}
+
+.blue-color ul.mainNav li a {
+  color: #fff;
+}
+
+.blue-color ul.mainNav.active ul,
+.blue-color ul.mainNav ul {
+  background: ;
+}
+
+
+.blue-color ul.mainNav.active li:hover,
+.blue-color  ul.mainNav.active li.check {
+  background: #628DB6;
+}
+
+.blue-color .navigation {
+  background: #628DB6;
+}
+
+.blue-color .navigation a h1 {
+  color: #FFFFFF;
+}
+
+
+.blue-color .phone-nav-box .phone-logo h1{ color: #FFFFFF;}
+
+
+.blue-color .phone-nav-box {
+  background: #628DB6;
+}
+
+.blue-color #min-wrapper {
+  background: #628DB6;
+}
+
+.change-color-switch ul li.blue-color {
+  background: #628DB6;
+}
+
+#change-color .change-color-box ul li.blue-color {
+  background: #628DB6;
+}
+
+.blue-color #left-navigation {
+  background: #628DB6;
+}
+
+
+#left-navigation .user-image img {
+    height: 80px;
+    width: 80px ;
+   
+}
+
+
+
+#left-navigation.active  .user-image img {
+    height: 40px;
+    width: 40px;
+}
+
+
+
+
+.header-logo a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.blue-color ul.mainNav.active ul, .blue-color ul.mainNav ul {
+    background: #628DB6;
+}
+
+ul.mainNav li a:hover {background-color: #3E3F40 !important;}
+
+
+.form-control {height: 37px;}
+
+.ls-table .table > thead > tr > th {font-family: 'Noto Kufi Arabic', sans-serif !important;    font-size: 13px;}
+
+.blue-color ul.mainNav li:last-child {border-bottom: 1px solid #fff;}
+
+.label-light-green {
+    background-color: #3E5B76;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {vertical-align: middle;    font-size: 12px;}
+
+.btn-info {
+    color: #fff;
+    background-color: #3E5B76;
+    border-color: #3E5B76;
+}
+
+/*
+body.login-screen {
+    background: #628DB6;
+}
+*/
+
+body.login-screen {
+   background-image:url(../../../../bglogin3.jpg);
+ background-size: 100% 100% ;
+ -moz-background-size: 100% 100%;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+}
+
+.login-box {background: #efefef;-webkit-border-top-left-radius: 15px;
+-webkit-border-bottom-right-radius: 15px;
+-moz-border-radius-topleft: 15px;
+-moz-border-radius-bottomright: 15px;
+border-top-left-radius: 15px;
+border-bottom-right-radius: 15px;    border: 10px solid #00a2ff;    margin: 10% auto;}
+
+.ls-dark-btn {
+    background-color: #00a2ff;
+    color: #FFFFFF;}
+
+.login-content h3 {color: #00a2ff;}
+
+.login-box .login-form .input-group-addon, .login-box .forgot-pass-box .input-group-addon {
+    background: #00a2ff;
+    color: #fff;
+    border-color: #00a2ff;}
+.copy-right.big-screen {color: #fff;}
+
+.login-box .login-user-icon {
+    border: 5px solid #fff;
+    border-radius: 75px;
+    color: #fff;}
+
+
+
+.table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #ddd;
+} 
+
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+
+section#left-navigation {
+    padding: 25px 0;
+}
+
+.copy-right a { color: #222; font-weight: bold;}
+
+.amr {padding-top: 200px;}
+.amr img {margin: auto; text-align: center;}
+
+.navbar-bottom {
+    background-color: #628DB6;
+    border-color: #628DB6;
+}
+
+.navbar-bottom a:hover, .copy-right a:hover {text-decoration: none;}
+
+.selectize-input.items.not-full.has-options input[type="text"] {
+    width: 100% !important;
+}
+
+
+#result_tr_print tr td {
+    font-size: 12px !important;
+}
+
+
+.scrollNav {
+    top: 0;
+}
+
+
+.fixed {
+    position: fixed;
+    top: 0;
+    width: 200px; background: #3E5B76;
+}
+
+.active .fixed {
+    width: 50px;z-index: 1;
+   
+}
+
+ul.mainNav li a:active {
+    background-color: #3E3F40 !important;
+}
+
+
+
+
+
+
+
+
+
+@media print {
+    
+    
+    .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {vertical-align: middle;    font-size: 10px !important;}
+    
+    #result_tr_print tr td {font-size: 10px !important;}
+    
+    
+    .printme, .printme * {
+        visibility: visible;
+    }
+    .printme {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .printme, .printme:last-child {
+        page-break-after: avoid;
+    }
+
+    .display-none-on, .display-none-on * {
+        display: none !important;
+    }
+    html, body {
+        height: auto;
+        font-size: 10px !important; /* changing to 10pt has no impact */
+    }
+    
+    h3 {
+        font-size: 16px;}
+    
+    body {font-size: 13px;
+}
+}
