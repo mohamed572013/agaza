@@ -5,9 +5,9 @@ $config['modules']['owner']['main'] = array(
     'programms', 'agazabook', 'others', 'restaurantss', 'shopss', 'transportationss', 'explore_egyptt'
 );
 $config['modules']['owner']['sub'] = array(
-    'users', 'branches', 'places', 'header_images', 'nationalities',
-    'hotels', 'maka_madina_shrines', 'hotels_advantage', 'hotel_rooms', 'flight_reservation',
-    'programs_advantage', 'programs_levels', 'programs_seasons', 'programs', 'extra_services',
+    'users', 'branches', 'places', 'header_images', 'nationalities', 'explore_hotels', 'explore_sightseeing','Subscribe_emails',
+    'hotels', 'maka_madina_shrines', 'hotels_advantage', 'hotel_rooms', 'flight_reservation', 'medical_tourism',
+    'programs_advantage', 'programs_levels', 'programs_seasons', 'programs', 'extra_services', 'hotel_explore_data',
     'travel_way', 'about_us', 'hotel_extra_services', 'hotel_data', 'news', 'travel_documents', 'design_islamic', 'design_trip',
     'groups', 'agaza_special_offers', 'program_data', 'hotels_reservation', 'discover', 'discover_data',
     'departments', 'employees', 'visa_types', 'currency', 'program_categories', 'visitors', 'agaza_reserve',
@@ -19,11 +19,11 @@ $config['modules']['super admin']['main'] = array(
     'programms', 'agazabook', 'others', 'restaurantss', 'shopss', 'transportationss', 'explore_egyptt'
 );
 $config['modules']['super admin']['sub'] = array(
-    'users', 'branches', 'places', 'header_images', 'discover', 'discover_data', 'nationalities', 'explore_egyptt',
-    'maka_madina_hotels', 'maka_madina_shrines', 'hotels_advantage', 'hotel_rooms', 'flight_reservation',
+    'users', 'branches', 'places', 'header_images', 'discover', 'discover_data', 'nationalities',
+    'maka_madina_hotels', 'maka_madina_shrines', 'hotels_advantage', 'hotel_rooms', 'flight_reservation', 'medical_tourism',
     'programs_advantage', 'programs_levels', 'programs', 'extra_services', 'etiquette', 'visitors', 'agaza_reserve',
-    'travel_way', 'about_us', 'hotel_extra_services', 'hotel_data', 'islamic_hotels', 'islamic_hotel_data', 'news',
-    'groups', 'agaza_special_offers', 'program_data', 'hotels_reservation', 'shops_tag', 'restaurants_tag',
+    'travel_way', 'about_us', 'hotel_extra_services', 'hotel_data', 'islamic_hotels', 'islamic_hotel_data', 'news','Subscribe_emails',
+    'groups', 'agaza_special_offers', 'program_data', 'hotels_reservation', 'shops_tag', 'restaurants_tag', 'hotel_explore_data',
     'visa_types', 'islamic_programs', 'islamic_data', 'islamic_program_categories', 'mnasek', 'documents', 'intro',
     //'employees', 'departments', 'programs_seasons'
     'visa_periods', 'visa_jobs', 'visa_documents', 'visa_create', 'restaurants_advantage', 'restaurants', 'visas_reservation', 'program_agaza', 'clients', 'shops', 'transportations', 'shops_features', 'brands', 'shops_advantage', 'islamic_hotels_reservation'
